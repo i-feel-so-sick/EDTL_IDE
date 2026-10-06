@@ -1,1 +1,1 @@
-# EDTL_IDE
+<h1 align="center">📐 EDTL</h1> <p align="center"> <img src="https://img.shields.io/badge/Java-11-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Xtext-2.34.0-4B8BBE?style=flat" alt="Xtext" /> <img src="https://img.shields.io/badge/Xtend-2.34.0-6C4AA5?style=flat" alt="Xtend" /> <img src="https://img.shields.io/badge/Gradle-8.6-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle" /> <img src="https://img.shields.io/badge/Eclipse-LSP-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse" /> </p>
